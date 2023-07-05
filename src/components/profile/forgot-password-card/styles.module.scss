@@ -1,0 +1,23 @@
+.input {
+  height: 48px;
+  border-radius: 4px;
+  margin-top: 16px;
+}
+
+.buttons {
+  width: 100%;
+  display: flex;
+  margin-top: 24px;
+}
+
+.back {
+  height: 48px!important;
+  border-radius: 4px;
+  margin-right: 8px;
+}
+
+.submit {
+  height: 48px!important;
+  border-radius: 4px;
+  flex: 1;
+}

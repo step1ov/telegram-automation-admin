@@ -1,0 +1,30 @@
+
+
+.logo {
+  padding: 8px;
+}
+
+.content {
+  padding: 0 24px 0 24px;
+}
+
+.dropDownRight {
+  float: right;
+  cursor: pointer;
+}
+
+.displayName {
+  width: 100%;
+  text-align: center;
+  cursor: auto;
+}
+
+.dropDownRightContainer {
+  width: 32px;
+  height: 32px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+}
